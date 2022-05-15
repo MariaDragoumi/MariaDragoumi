@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome 👋
+
+I'm Maria, a Data Scientist with a background in Physics. 
 
 <!--
 **MariaDragoumi/MariaDragoumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- My first program I saved it on a :floppy_disk:
+
 -->
+
