@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-I'm Maria, a Data Scientist with a background in Physics and Computational Chemistry/Material Science. 
+I'm Maria, a Data Scientist with a background in Physics and Computational Quantum Chemistry/Material Science. 
 
 <!--
 **MariaDragoumi/MariaDragoumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
