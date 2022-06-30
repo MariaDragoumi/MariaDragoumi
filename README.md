@@ -2,7 +2,7 @@
 
 I'm Maria, a Data Scientist with a background in Physics and five years of experience in research on Computational Material Science and Theoretical Quantum Chemistry. I love math and I am always intrigued when a new challenge comes my way. Currently, I am on the hunt for Machine Learning and AI challenges. 
 
-I love coding with python and the numerous possibilities that it provides, but I am also skilled in programming with FORTRAN and using MPI for parallel programming for challenging computations. 
+I love coding with python and the numerous possibilities that it provides, but I am also skilled in programming with FORTRAN and using MPI parallel programming for challenging computations. 
 
 
 
