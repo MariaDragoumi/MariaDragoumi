@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 - My first program I saved it on a :floppy_disk:
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MariaDragoumi)
--->
+
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MariaDragoumi&show_icons=true)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaDragoumi&theme=blue-green)
-
+-->
