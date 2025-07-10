@@ -1,8 +1,14 @@
 ### Welcome 👋
 
-I'm Maria, a Data Scientist with a background in Physics and five years of experience in research on Computational Material Science and Theoretical Quantum Chemistry. I love math and I am always intrigued when a new challenge comes my way. Currently, I am on the hunt for Machine Learning and AI challenges. 
+👋 Hi! I'm a Ph.D. chemist with 7+ years of experience in computational chemistry, quantum chemistry software, and machine learning—spanning both academia and industry.
+
+🔬 I specialize in developing production-grade scientific software and applying data-driven modeling to problems in chemistry and biotech. I’ve delivered multiple R&D projects from concept to production in cross-functional environments.
 
 I love coding with python and the numerous possibilities that it provides, but I am also skilled in programming with FORTRAN and using MPI parallel programming for challenging computations. 
+
+
+📁 Note: This GitHub contains only small personal or educational projects. My professional work (for companies like Bayer) is proprietary and not publicly available.
+
 
 
 
