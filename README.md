@@ -7,7 +7,7 @@
 I love coding with python and the numerous possibilities that it provides, but I am also skilled in programming with FORTRAN and using MPI parallel programming for challenging computations. 
 
 
-📁 Note: Most of my serious work lives behind corporate firewalls—so what's here are side projects, demos, and experiments (fun, but not the whole story!)
+📁 Note: Most of my serious work lives behind corporate firewalls, so what's here are side projects, demos, and experiments (fun, but not the whole story!)
 
 
 
